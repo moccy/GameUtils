@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace BehaviourTree.Nodes.Composite
+namespace Lyut.BehaviourTree.Nodes.Composite
 {
     /// <summary>
     /// A sequence node is a composite node that must execute it's children in a specified order.

@@ -1,4 +1,4 @@
-﻿namespace BehaviourTree.Nodes.Decorator
+﻿namespace Lyut.BehaviourTree.Nodes.Decorator
 {
     /// <summary>
     /// This node executes it's child until it fails, at which point it returns successful.

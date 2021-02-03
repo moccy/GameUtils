@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BehaviourTree\BehaviourTree.csproj" />
+    <ProjectReference Include="..\..\BehaviourTree\Lyut.BehaviourTree.csproj" />
   </ItemGroup>
 
 </Project>

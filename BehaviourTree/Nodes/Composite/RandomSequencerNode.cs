@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BehaviourTree.Nodes.Composite
+namespace Lyut.BehaviourTree.Nodes.Composite
 {
     public class RandomSequencerNode : SequenceNode
     {

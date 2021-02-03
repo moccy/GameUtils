@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace BehaviourTree.Nodes.Composite
+namespace Lyut.BehaviourTree.Nodes.Composite
 {
     public class SelectorNode : CompositeNode
     {

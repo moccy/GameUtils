@@ -1,4 +1,4 @@
-﻿namespace BehaviourTree.Nodes.Decorator
+﻿namespace Lyut.BehaviourTree.Nodes.Decorator
 {
     /// <summary>
     /// An succeeder node will always return successful, regardless of its child's execution outcome.

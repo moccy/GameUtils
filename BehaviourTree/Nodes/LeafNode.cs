@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BehaviourTree.Nodes
+namespace Lyut.BehaviourTree.Nodes
 {
     public class LeafNode : Node
     {

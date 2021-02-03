@@ -1,4 +1,4 @@
-﻿namespace BehaviourTree.Nodes.Decorator
+﻿namespace Lyut.BehaviourTree.Nodes.Decorator
 {
     public abstract class DecoratorNode : Node
     {

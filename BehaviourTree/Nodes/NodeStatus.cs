@@ -1,4 +1,4 @@
-﻿namespace BehaviourTree.Nodes
+﻿namespace Lyut.BehaviourTree.Nodes
 {
     public enum NodeStatus
     {

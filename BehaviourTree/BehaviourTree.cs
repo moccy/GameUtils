@@ -1,6 +1,6 @@
-﻿using BehaviourTree.Nodes;
+﻿using Lyut.BehaviourTree.Nodes;
 
-namespace BehaviourTree
+namespace Lyut.BehaviourTree
 {
     public class BehaviourTree
     {

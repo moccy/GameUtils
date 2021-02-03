@@ -1,4 +1,4 @@
-﻿namespace BehaviourTree.Nodes.Decorator
+﻿namespace Lyut.BehaviourTree.Nodes.Decorator
 {
     /// <summary>
     /// A repeater node will execute it's child for a specified number of times, or forever.

@@ -1,6 +1,6 @@
 ﻿using System;
-using BehaviourTree.Nodes;
-using BehaviourTree.Nodes.Decorator;
+using Lyut.BehaviourTree.Nodes;
+using Lyut.BehaviourTree.Nodes.Decorator;
 
 namespace BehaviourTree.Example
 {
@@ -9,7 +9,7 @@ namespace BehaviourTree.Example
         static void Main(string[] args)
         {
             var count = 0;
-            var tree = new BehaviourTree(
+            var tree = new Lyut.BehaviourTree.BehaviourTree(
                 new RepeatUntilFailNode(
                     new LeafNode(() =>
                     {

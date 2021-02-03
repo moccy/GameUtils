@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BehaviourTree.Nodes.Decorator
+namespace Lyut.BehaviourTree.Nodes.Decorator
 {
     /// <summary>
     /// An inverter node will return the opposite status it's child returns after executing.

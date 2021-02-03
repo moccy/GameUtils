@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace BehaviourTree.Nodes.Composite
+namespace Lyut.BehaviourTree.Nodes.Composite
 {
     public abstract class CompositeNode : Node
     {
